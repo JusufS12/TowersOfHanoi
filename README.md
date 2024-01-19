@@ -13,7 +13,7 @@ This project implements the Towers of Hanoi game in Python. The game allows the 
 - Comparison of user moves with the optimal number of moves for solving the game
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/TowersOfHanoi.git`
+1. Clone the repository: `git clone https://github.com/JusufS12/TowersOfHanoi.git`
 2. Navigate to the project directory: `cd TowersOfHanoi`
 3. Run the game: `python TowersOfHanoi.py`
 
